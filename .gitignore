@@ -1,0 +1,8 @@
+config.py
+*.tar
+.venv
+__pycache__
+.vscode
+.DS_Store
+create_projects_multiple_users_hackathon.ipynb
+*.txt
